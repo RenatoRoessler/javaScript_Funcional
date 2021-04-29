@@ -1,5 +1,6 @@
 const fs = require('fs')
 const path = require('path')
+//teste commit
 
 function lerDiretorios(caminho) {
     return new Promise((resolve, reject) => {
