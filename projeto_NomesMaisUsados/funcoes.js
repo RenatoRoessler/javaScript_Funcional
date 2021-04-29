@@ -50,6 +50,7 @@ function lerArquivos(caminhos) {
     )
 }
 
+
 function removerSeVazio(array) {
     return array.filter(el => el.trim())
 }
